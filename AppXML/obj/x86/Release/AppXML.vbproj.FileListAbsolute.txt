@@ -1,0 +1,11 @@
+C:\Users\Usuario\Desktop\AppXMLDir\AppXML\AppXML\bin\Release\AppXML.exe
+C:\Users\Usuario\Desktop\AppXMLDir\AppXML\AppXML\bin\Release\AppXML.pdb
+C:\Users\Usuario\Desktop\AppXMLDir\AppXML\AppXML\bin\Release\AppXML.xml
+C:\Users\Usuario\Desktop\AppXMLDir\AppXML\AppXML\obj\x86\Release\AppXML.Form1.resources
+C:\Users\Usuario\Desktop\AppXMLDir\AppXML\AppXML\obj\x86\Release\AppXML.frmLogin.resources
+C:\Users\Usuario\Desktop\AppXMLDir\AppXML\AppXML\obj\x86\Release\AppXML.QuitarXML.resources
+C:\Users\Usuario\Desktop\AppXMLDir\AppXML\AppXML\obj\x86\Release\AppXML.Resources.resources
+C:\Users\Usuario\Desktop\AppXMLDir\AppXML\AppXML\obj\x86\Release\AppXML.vbproj.GenerateResource.Cache
+C:\Users\Usuario\Desktop\AppXMLDir\AppXML\AppXML\obj\x86\Release\AppXML.exe
+C:\Users\Usuario\Desktop\AppXMLDir\AppXML\AppXML\obj\x86\Release\AppXML.xml
+C:\Users\Usuario\Desktop\AppXMLDir\AppXML\AppXML\obj\x86\Release\AppXML.pdb

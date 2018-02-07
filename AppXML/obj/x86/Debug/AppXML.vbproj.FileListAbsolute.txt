@@ -1,0 +1,20 @@
+C:\Users\Usuario\AppData\Local\Temporary Projects\AppXML\bin\Debug\AppXML.exe
+C:\Users\Usuario\AppData\Local\Temporary Projects\AppXML\bin\Debug\AppXML.pdb
+C:\Users\Usuario\AppData\Local\Temporary Projects\AppXML\bin\Debug\AppXML.xml
+C:\Users\Usuario\AppData\Local\Temporary Projects\AppXML\obj\x86\Debug\AppXML.Form1.resources
+C:\Users\Usuario\AppData\Local\Temporary Projects\AppXML\obj\x86\Debug\AppXML.Resources.resources
+C:\Users\Usuario\AppData\Local\Temporary Projects\AppXML\obj\x86\Debug\AppXML.vbproj.GenerateResource.Cache
+C:\Users\Usuario\AppData\Local\Temporary Projects\AppXML\obj\x86\Debug\AppXML.exe
+C:\Users\Usuario\AppData\Local\Temporary Projects\AppXML\obj\x86\Debug\AppXML.xml
+C:\Users\Usuario\AppData\Local\Temporary Projects\AppXML\obj\x86\Debug\AppXML.pdb
+C:\Users\Usuario\Desktop\AppXMLDir\AppXML\AppXML\obj\x86\Debug\AppXML.exe
+C:\Users\Usuario\Desktop\AppXMLDir\AppXML\AppXML\obj\x86\Debug\AppXML.xml
+C:\Users\Usuario\Desktop\AppXMLDir\AppXML\AppXML\obj\x86\Debug\AppXML.pdb
+C:\Users\Usuario\Desktop\AppXMLDir\AppXML\AppXML\bin\Debug\AppXML.exe
+C:\Users\Usuario\Desktop\AppXMLDir\AppXML\AppXML\bin\Debug\AppXML.pdb
+C:\Users\Usuario\Desktop\AppXMLDir\AppXML\AppXML\bin\Debug\AppXML.xml
+C:\Users\Usuario\Desktop\AppXMLDir\AppXML\AppXML\obj\x86\Debug\AppXML.Form1.resources
+C:\Users\Usuario\Desktop\AppXMLDir\AppXML\AppXML\obj\x86\Debug\AppXML.Resources.resources
+C:\Users\Usuario\Desktop\AppXMLDir\AppXML\AppXML\obj\x86\Debug\AppXML.vbproj.GenerateResource.Cache
+C:\Users\Usuario\Desktop\AppXMLDir\AppXML\AppXML\obj\x86\Debug\AppXML.QuitarXML.resources
+C:\Users\Usuario\Desktop\AppXMLDir\AppXML\AppXML\obj\x86\Debug\AppXML.frmLogin.resources
